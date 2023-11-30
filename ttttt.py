@@ -1,2 +1,2 @@
 print("hello")
-print("ดีจ้า")
+print("is me")
